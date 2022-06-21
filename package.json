@@ -1,12 +1,20 @@
 {
   "name": "sybrenium",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.0",
+  "description": "Serving backend for sybrenium as JS",
   "main": "sybrenium.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syber-Lab/sybrenium-js.git"
+  },
+  "keywords": ["sybrenium","syberstar","syber"],
+  "author": "Mohamed Yaseen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Syber-Lab/Sybrenium/issues"
+  },
+  "homepage": "https://sybrenium.herokuapp.com/"
 }

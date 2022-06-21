@@ -1,0 +1,1 @@
+alert("Hello World, this is Sybrenium-js initialization")
