@@ -1,6 +1,6 @@
 {
-  "name": "sybrenium",
-  "version": "0.0.0",
+  "name": "sybrenium-js",
+  "version": "0.0.5",
   "description": "Serving backend for sybrenium as JS",
   "main": "sybrenium.js",
   "scripts": {
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/Syber-Lab/sybrenium-js.git"
   },
-  "keywords": ["sybrenium","syberstar","syber"],
+  "keywords": [
+    "sybrenium",
+    "syberstar",
+    "syber"
+  ],
   "author": "Mohamed Yaseen",
   "license": "MIT",
   "bugs": {
